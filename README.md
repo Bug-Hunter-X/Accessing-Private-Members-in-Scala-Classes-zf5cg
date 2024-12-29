@@ -1,0 +1,1 @@
+This example demonstrates a common issue in Scala: accessing private members within a class.  While seemingly simple, the way private members are handled requires understanding.  The provided solution clarifies the correct approach.
